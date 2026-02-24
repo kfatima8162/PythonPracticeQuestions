@@ -10,3 +10,9 @@ print(sys.version)
 import datetime
 current_datetime = datetime.datetime.now()
 print(current_datetime)
+
+#--Q4--
+from math import pi 
+a=float(input("Enter radius:"))
+b=pi*a**2
+print("Area:",b)
