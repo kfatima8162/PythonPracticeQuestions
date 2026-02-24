@@ -6,3 +6,7 @@ import sys
 print("Python version:")
 print(sys.version)
 
+#--Q3--
+import datetime
+current_datetime = datetime.datetime.now()
+print(current_datetime)
