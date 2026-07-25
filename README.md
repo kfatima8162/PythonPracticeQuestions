@@ -177,7 +177,6 @@ By working through this repository, a learner can expect to:
 
 - Gain hands-on experience with all foundational Python data types and structures.
 - Develop confidence in writing clean, functional Python code from scratch.
-- Build familiarity with Pythonic approaches such as list comprehensions and unpacking.
 - Practice reading, analyzing, and solving well-defined coding problems.
 - Understand common patterns in beginner-to-intermediate Python challenges.
 - Strengthen readiness for entry-level Python developer roles and technical interviews.
